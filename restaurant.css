@@ -1,0 +1,30 @@
+#head {
+    background-color: red;
+    margin: 0;
+}
+
+#photo1, #photo2, #photo3, #photo4, #photo5, #photo6 {
+  height: 45vh;
+  width: 45vh;
+  background-color: yellow;
+}
+#item1, #item2, #item3, #item4, #item5, #item6 {
+  background-color: blue;
+  width: 45vh;
+  margin: 20px;
+  padding: 0;
+  float: left;
+}
+
+.name, .price {
+  font-size: 25px;
+  display: inline;
+}
+
+#check{
+  background-color: purple;
+  position: relative;
+  float: right;
+  height: 100vh;
+  margin: 0;
+}
